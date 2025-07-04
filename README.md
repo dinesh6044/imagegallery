@@ -21,9 +21,9 @@ bash
 Copy
 Edit
 /image-gallery/
-│
-├── index.html        # Main HTML file
-├── style.css         # Stylesheet (CSS)
-├── script.js         # JavaScript file for interactivity
-├── /images/          # Image assets (8 per category: nature, urban, portrait)
-└── README.md         # Project documentation
+
+├── index.html        
+├── style.css         
+├── script.js         
+├── /images/          
+└── README.md        
