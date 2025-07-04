@@ -4,22 +4,20 @@ A responsive and animated Image Gallery built with HTML, CSS, and JavaScript.
 This project features smooth transitions, category filters, lightbox viewing, and navigation (next/prev) controls.
 
 🚀 Features
-✅ Responsive Layout (Works on desktop, tablet, and mobile)
+Responsive Layout (Works on desktop, tablet, and mobile)
 
-✅ Category Filters (Nature, Urban, Portrait)
+Category Filters (Nature, Urban, Portrait)
 
-✅ Lightbox View with Fullscreen Image Display
+Lightbox View with Fullscreen Image Display
 
-✅ Next / Previous Navigation Inside Lightbox
+Next / Previous Navigation Inside Lightbox
 
-✅ Smooth Hover Effects & Transitions
+Smooth Hover Effects & Transitions
 
-✅ Clean and Minimal UI
+Clean and Minimal UI
 
-📂 Project Structure
-bash
-Copy
-Edit
+Project Structure
+
 /image-gallery/
 
 ├── index.html        
